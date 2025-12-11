@@ -6,7 +6,9 @@ This repository contains our implementation of a RISC-V RV32I processor designed
 
 The project consists of two main Logisim circuits:
 
-1. Baseline Processor (##### Baseline.circ)
+1. Baseline Processor
+##### Baseline.circ
+
 Implemented in Logisim-Evolution 4.0.
 Provides a functional RV32I processor capable of correctly fetching, decoding, and executing 32-bit instructions.
 To load and run the baseline:
