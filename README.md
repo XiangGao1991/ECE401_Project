@@ -62,13 +62,13 @@ The optimized design demonstrates significantly improved CPI and execution speed
 Cycle-by-cycle videos showing the behavior of the processor (main view, registers, memory, cache, etc.):
 
 ### Baseline Execution Videos
-- `baseline-main.mp4`
-- `baseline-register.mp4`
-- `baseline-memory.mp4`
+- [baseline-main.mp4](https://drive.google.com/file/d/16t-Tl34dw6Z-0CnWBvSHBYg8mv4-WVDB/view?usp=drive_link)
+- [baseline-register.mp4](https://drive.google.com/file/d/10016B-SmTpHt0VKvXPOoICtzPnoY0Gyz/view?usp=drive_link)
+- [baseline-memory.mp4](https://drive.google.com/file/d/16t-Tl34dw6Z-0CnWBvSHBYg8mv4-WVDB/view?usp=drive_link)
 
 ### Optimization Execution Videos
-- `optimization-main.mp4`
-- `optimization-register.mp4`
-- `optimization-cache.mp4`
+- [optimization-main.mp4](https://drive.google.com/file/d/1EE1_Lp4XMO6AR9N5NBIlNAwDxDkMiQGS/view?usp=drive_link)
+- [optimization-register.mp4](https://drive.google.com/file/d/1xAgBdlLkE_VS52Coh8qk9Tv2M2W2HLM-/view?usp=drive_link)
+- [optimization-cache.mp4](https://drive.google.com/file/d/1oRJrqW8v-cUBb_leiXpUpdMAFBFr6PLZ/view?usp=drive_link)
 
 These recordings illustrate differences in load frequency, stalling behavior, and overall responsiveness between the baseline and cache-enhanced designs.
