@@ -12,7 +12,7 @@ Provides a functional RV32I processor capable of correctly fetching, decoding, a
 To load and run the baseline:
 Open Baseline.circ in Logisim-Evolution 4.0.
 In the Instruction Memory (ROM/Input) module, load:
-### Baseline_4.0_Instruction_Memory.mem
+##### Baseline_4.0_Instruction_Memory.mem
 This initializes the functional baseline processor.
 
 2. Migrated Design & Cache Optimization (Cache_Optimization.circ)
