@@ -7,6 +7,7 @@ This repository contains our implementation of a RISC-V RV32I processor designed
 The project consists of two main Logisim circuits:
 
 1. Baseline Processor
+With 
 ##### Baseline.circ
 
 Implemented in Logisim-Evolution 4.0.
@@ -24,7 +25,8 @@ Both designs use the same instruction memory and main memory files for testing.
 
 # Running the Baseline (in the migrated design)
 
-Inside Cache_Optimization.circ:
+With
+##### Cache_Optimization.circ:
 Open the circuit in Logisim-Evolution 2.7.1.
 On the BASELINE top-level page:
 Load instruction memory from:
