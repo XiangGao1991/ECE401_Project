@@ -64,7 +64,7 @@ Cycle-by-cycle videos showing the behavior of the processor (main view, register
 ### Baseline Execution Videos
 - [baseline-main.mp4](https://drive.google.com/file/d/16t-Tl34dw6Z-0CnWBvSHBYg8mv4-WVDB/view?usp=drive_link)
 - [baseline-register.mp4](https://drive.google.com/file/d/10016B-SmTpHt0VKvXPOoICtzPnoY0Gyz/view?usp=drive_link)
-- [baseline-memory.mp4](https://drive.google.com/file/d/16t-Tl34dw6Z-0CnWBvSHBYg8mv4-WVDB/view?usp=drive_link)
+- [baseline-memory.mp4](https://drive.google.com/file/d/1_9TfKhZ8augtVFfBDL1qE4Jvf6NVrDtW/view?usp=drive_link)
 
 ### Optimization Execution Videos
 - [optimization-main.mp4](https://drive.google.com/file/d/1EE1_Lp4XMO6AR9N5NBIlNAwDxDkMiQGS/view?usp=drive_link)
