@@ -7,6 +7,7 @@ This repository contains our implementation of a RISC-V RV32I processor designed
 The project consists of two main Logisim circuits:
 
 1. Baseline Processor
+
 With 
 ##### Baseline.circ
 
