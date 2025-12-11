@@ -26,9 +26,9 @@ Inside Cache_Optimization.circ:
 Open the circuit in Logisim-Evolution 2.7.1.
 On the BASELINE top-level page:
 Load instruction memory from:
-Optimization_2.7_Instruction_Memory
+##### Optimization_2.7_Instruction_Memory
 Load main memory by opening Memory → RAM and importing:
-Optimization_2.7_Main_Memory
+##### Optimization_2.7_Main_Memory
 The processor will execute the test program (loading 100 values from memory).
 
 # Running the Cache-Optimized Processor
@@ -36,23 +36,22 @@ The processor will execute the test program (loading 100 values from memory).
 Inside the same .circ file:
 Navigate to the OPTIMIZATION top-level page.
 Load instruction memory from:
-Optimization_2.7_Instruction_Memory
+##### Optimization_2.7_Instruction_Memory
 For the memory hierarchy:
 Open Cache and Memory → Memory, then load:
-Optimization_2.7_Main_Memory
+##### Optimization_2.7_Main_Memory
 The optimized design will execute the same program, demonstrating substantially improved CPI and execution speed due to cache hits.
 
 # Execution Recordings
 
 We provide cycle-by-cycle videos showing how memory, registers, and cache contents evolve during execution.
 Baseline Execution Videos
-baseline-main.mp4
-baseline-register.mp4
-baseline-memory.mp4
-Optimization Execution Videos
-optimization-main.mp4
-optimization-register.mp4
-
-optimization-cache.mp4
+##### baseline-main.mp4
+##### baseline-register.mp4
+##### baseline-memory.mp4
+##### Optimization Execution Videos
+##### optimization-main.mp4
+##### optimization-register.mp4
+##### optimization-cache.mp4
 
 These recordings allow visual comparison of load frequency, stalling behavior, and pipeline responsiveness between the two designs.
